@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>102954462085-27veva7ackrbho6t47b4cp7sn1cfpcqm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.102954462085-27veva7ackrbho6t47b4cp7sn1cfpcqm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCKnMfJCIbivQkv0RcvNhrCT7H4nG4NJkU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>102954462085</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.zw.TheiOSChallenge</string>
+	<key>PROJECT_ID</key>
+	<string>theioschallenge</string>
+	<key>STORAGE_BUCKET</key>
+	<string>theioschallenge.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:102954462085:ios:5c4d0b1738c356094e72ec</string>
+</dict>
+</plist>
